@@ -22,3 +22,4 @@ desktop.ini
 
 # Database credentials
 src/main/resources/db.properties
+docs/
